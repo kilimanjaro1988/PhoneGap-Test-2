@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Employee Directory</name>
+    <name>Employee Directory - Version 2</name>
 
     <description>
-        A simple employee directory application
+        A simple employee directory application without all the folders
     </description>
 
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
